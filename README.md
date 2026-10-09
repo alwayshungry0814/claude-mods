@@ -14,7 +14,7 @@ You need Claude Code installed and signed in. Open any terminal.
 1. Add this repository as a plugin marketplace:
 
    ```bash
-   claude plugin marketplace add <owner>/<repo>
+   claude plugin marketplace add alwayshungry0814/claude-mods
    ```
 
    Answer `y` when it asks to add the marketplace.
