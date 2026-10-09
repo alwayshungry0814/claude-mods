@@ -1,0 +1,8 @@
+{
+  "name": "eugene-mods",
+  "owner": { "name": "Eugene Lee" },
+  "plugins": [
+    { "name": "agent-monitor", "source": "./agent-monitor", "description": "Live view of running agents and subagents: tree, model, effort, status, timers, cache hit rate" },
+    { "name": "usage-limits", "source": "./usage-limits", "description": "Always-on usage bars: 5-hour, weekly, per-model weekly, context fill, prompt-cache hit rate" }
+  ]
+}

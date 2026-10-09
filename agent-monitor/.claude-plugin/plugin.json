@@ -1,0 +1,6 @@
+{
+  "name": "agent-monitor",
+  "version": "0.1.0",
+  "description": "Live pane and status-line count of the agents and subagents running in this session",
+  "types": "./types/index.d.ts"
+}

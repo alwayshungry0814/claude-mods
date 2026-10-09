@@ -1,0 +1,9 @@
+{
+  "name": "usage-limits",
+  "version": "0.1.0",
+  "description": "Always-on view of plan usage: 5-hour session, weekly, and per-model (Fable) windows, plus context fill",
+  "author": {
+    "name": "Eugene Lee"
+  },
+  "types": "./types/index.d.ts"
+}
